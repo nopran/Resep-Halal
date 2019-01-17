@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_1"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.app.easycooking.MainActivity" >
+
+    <Button
+        android:id="@+id/btnSearch"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/sign_in_head" />
+
+    <EditText
+        android:id="@+id/editTextUser"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/btnSearch"
+        android:layout_below="@+id/btnSearch"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/button2"
+        android:background="#fff"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Email or username"
+        android:inputType="textPersonName">
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/Button01"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="20dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignTop="@+id/editTextPass"
+        android:layout_toLeftOf="@+id/editTextUser"
+        android:background="@drawable/password" />
+
+    <Button
+        android:id="@+id/btnSignin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Button01"
+        android:layout_alignRight="@+id/editTextPass"
+        android:layout_below="@+id/editTextPass"
+        android:layout_marginTop="10dp"
+        android:background="#999999"
+        android:text="Sign In"
+        android:textColor="#663300"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button4"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignLeft="@+id/btnSignin"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/btnSignin"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/or"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/editTextUser"
+        android:layout_alignLeft="@+id/btnSearch"
+        android:layout_alignTop="@+id/editTextUser"
+        android:background="@drawable/email" />
+
+    <TextView
+        android:id="@+id/txtRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnSignin"
+        android:layout_below="@+id/btnSignin"
+        android:layout_marginTop="37dp"
+        android:text="Not Register?"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#0066FF" />
+
+    <EditText
+        android:id="@+id/editTextPass"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/editTextUser"
+        android:layout_below="@+id/editTextUser"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/button2"
+        android:background="#fff"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+</RelativeLayout>

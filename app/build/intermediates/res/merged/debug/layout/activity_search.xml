@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_normall" >
+
+    <Button
+        android:id="@+id/btnView"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#F97D00"
+        android:text="Search"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listViewRecipes"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btnSearch">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/btnSearch"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:layout_gravity="center"
+        android:background="@drawable/green_button"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/editTextName"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#fff"
+        android:ems="10"
+        android:hint="Recipe name"
+        android:gravity="center"
+        android:layout_below="@+id/ckbVegetarian"
+        android:layout_alignParentStart="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Normal"
+        android:id="@+id/ckbNormal"
+        android:layout_below="@+id/btnView"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/ckbVegetarian"
+        android:enabled="false"
+        android:checked="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vegetarian"
+        android:id="@+id/ckbVegetarian"
+        android:layout_alignTop="@+id/ckbNormal"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/ckbVegetarian"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Less Fat"
+        android:id="@+id/ckbLessFat"
+        android:layout_below="@+id/ckbNormal"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/ckbLessSugar"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Less Carbohydrate"
+        android:id="@+id/ckbVegetarian"
+        android:layout_below="@+id/ckbLessFat"
+        android:layout_alignParentStart="true"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Less Sugar"
+        android:id="@+id/ckbLessSugar"
+        android:layout_below="@+id/ckbVegetarian"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/ckbVegetarian"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Less Salt"
+        android:id="@+id/ckbLessSalt"
+        android:layout_below="@+id/ckbLessSugar"
+        android:layout_alignStart="@+id/ckbLessSugar"
+        android:checked="false" />
+
+</RelativeLayout>

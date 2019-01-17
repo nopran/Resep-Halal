@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_makeadish.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_makeadish.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refrigerator.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_refrigerator.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_column_recipe.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_column_recipe.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_column_items.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_column_items.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_how_to_cook.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_how_to_cook.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_recipe.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_all_recipe.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_cut.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_add_cut.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_recipe.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_add_recipe.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_column_history.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_column_history.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logout.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_logout.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recipe_add_items.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_recipe_add_items.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_recipe.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_edit_recipe.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmarks.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_bookmarks.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_item.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\dialog_add_item.xml"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\logout_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\home_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\logout_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\home_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recipe_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\recipe_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\history_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\history_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_item.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\add_item.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bookmarks_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\bookmarks_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\search_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recipe_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\recipe_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\history_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\history_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\search_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bookmarks_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-hdpi\\bookmarks_normal.png"
+    }
+]

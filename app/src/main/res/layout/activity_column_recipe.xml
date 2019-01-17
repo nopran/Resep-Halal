@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/linearLayout1"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	<TextView
+		android:id="@+id/ColName"
+		android:layout_width="0dp"
+		android:layout_height="35dp"
+		android:layout_weight="0.59"
+		android:gravity="center|top"
+		android:textSize="12dp"
+		android:text="name" />
+	<TextView
+		android:id="@+id/ColCalories"
+		android:layout_width="0dp"
+		android:layout_height="35dp"
+		android:layout_weight="0.34"
+		android:textSize="12dp"
+		android:gravity="left|top"
+		android:text="calories" />
+	<TextView
+		android:id="@+id/ColSpecific"
+		android:layout_width="0dp"
+		android:layout_height="35dp"
+		android:layout_weight="0.77"
+		android:layout_marginLeft="5dp"
+		android:gravity="left|top"
+		android:textSize="12dp"
+		android:text="specific" />
+</LinearLayout>

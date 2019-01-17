@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\zzzz\Resep_Halal\Resep_Halal\app\src\main\assets"><file name="resep_halal.sqlite" path="E:\zzzz\Resep_Halal\Resep_Halal\app\src\main\assets\resep_halal.sqlite"/></source><source path="E:\zzzz\Resep_Halal\Resep_Halal\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\zzzz\Resep_Halal\Resep_Halal\app\src\debug\assets"/></dataSet></merger>

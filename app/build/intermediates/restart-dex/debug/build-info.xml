@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="547602952788883"
+    token="-7704592090502227909"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1127" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1154" />
+    <task
+        name="verifier"
+        duration="249" />
+
+    <artifact
+        location="E:\zzzz\Resep_Halal\Resep_Halal\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="547602952788883"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\zzzz\Resep_Halal\Resep_Halal\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

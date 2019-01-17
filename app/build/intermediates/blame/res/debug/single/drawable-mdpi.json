@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\search_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_normal.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\home_normal.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\search_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_selected.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\home_selected.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_image.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\no_image.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\none.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\none.png"
+    },
+    {
+        "merged": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\zzzz\\Resep_Halal\\Resep_Halal\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:id="@+id/scrollView"
+	android:layout_alignParentTop="true"
+	android:layout_alignParentStart="true" >
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+
+		<EditText
+			android:id="@+id/e_editRecipeName"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:ems="10"
+			android:gravity="center"
+			android:hint="Nama Resep"
+			android:layout_alignParentStart="true"
+			android:layout_alignParentLeft="true"
+			android:layout_marginTop="100dp"
+			android:layout_below="@+id/e_imageViewRecipe">
+
+			<requestFocus />
+		</EditText>
+
+	<EditText
+			android:id="@+id/e_editTextCalories"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:ems="10"
+			android:gravity="center"
+			android:hint="Kalori"
+			android:numeric="decimal"
+			android:layout_alignParentStart="true"
+			android:layout_below="@+id/e_editRecipeName"
+			android:layout_alignParentLeft="true" />
+
+		<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/e_imageViewRecipe"
+			android:layout_centerHorizontal="true"
+			android:background="@drawable/no_image" />
+
+		<EditText
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:inputType="textMultiLine"
+			android:ems="10"
+			android:id="@+id/e_editTextHowToCook"
+			android:layout_below="@+id/e_editTextCalories"
+			android:layout_alignParentEnd="true"
+			android:hint="Cara Memasak" />
+
+	<Button
+		android:id="@+id/e_btnEditRecipe"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:background="@drawable/yellow_button"
+		android:text="Update"
+		android:textSize="20dp"
+		android:textStyle="bold"
+		android:layout_below="@+id/e_editTextHowToCook"
+		android:layout_alignParentStart="true" />
+	<Button
+		android:id="@+id/e_btnDeleteRecipe"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:background="@drawable/red_button"
+		android:text="Delete"
+		android:textSize="20dp"
+		android:textStyle="bold"
+		android:layout_below="@+id/e_btnEditRecipe"
+		android:layout_alignParentStart="true" />
+
+	<CheckBox
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Normal"
+		android:id="@+id/ckbNormal"
+		android:enabled="false"
+		android:checked="true"
+		android:layout_below="@+id/e_imageViewRecipe"
+		android:layout_alignParentStart="true" />
+
+	<CheckBox
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Berbuka"
+		android:id="@+id/ckbLessFat"
+		android:checked="false"
+		android:layout_below="@+id/ckbNormal"
+		android:layout_alignParentStart="true" />
+
+	<CheckBox
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Sahur"
+		android:id="@+id/ckbVegetarian"
+		android:checked="false"
+		android:layout_below="@+id/ckbLessFat"
+		android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+
+</ScrollView>

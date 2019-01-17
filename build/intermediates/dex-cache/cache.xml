@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\zzzz\EasyCookingStudio-master\EasyCookingStudio-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a512be72e10c72bad078eea0e462d79650590aa4">
+        <dex dex="E:\zzzz\EasyCookingStudio-master\EasyCookingStudio-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef99bf8def8794c84c99526d5a10c81a9d76b969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zzzz\EasyCookingStudio-master\EasyCookingStudio-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4798853fa689b19253ec5202de54b7c4e80fb3e8">
+        <dex dex="E:\zzzz\EasyCookingStudio-master\EasyCookingStudio-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_16b1c757d7bcb96ae32ba1377ffff0c11ec50544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\allana\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\zzzz\EasyCookingStudio-master\EasyCookingStudio-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_aad9f44d02a2edfb1ba1951f858ab2cbc8e1aee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\allana\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\zzzz\Resep_Halal\Resep_Halal\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_aad9f44d02a2edfb1ba1951f858ab2cbc8e1aee4.jar" />
+    </item>
+
+</items>

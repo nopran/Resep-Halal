@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+
+	<EditText
+	    android:id="@+id/editItemUnit"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_below="@+id/editItemAmount"
+	    android:layout_marginTop="10dp"
+	    android:ems="10"
+	    android:gravity="center"
+	    android:hint="Unit" />
+
+	<EditText
+	    android:id="@+id/editRecipeName"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_marginTop="10dp"
+	    android:ems="10"
+	    android:gravity="center"
+	    android:hint="Nama Bahan" >
+
+	    <requestFocus />
+	</EditText>
+
+	<EditText
+	    android:id="@+id/editItemAmount"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_below="@+id/editRecipeName"
+	    android:layout_marginTop="10dp"
+	    android:ems="10"
+	    android:fontFamily="sans-serif"
+	    android:gravity="center"
+	    android:hint="Jumlah"
+	    android:inputType="numberDecimal" />
+
+	<Button
+	    android:id="@+id/btnAddItemToRefriger"
+	    android:layout_width="match_parent"
+	    android:layout_height="60dp"
+	    android:layout_below="@+id/editItemUnit"
+	    android:layout_centerHorizontal="true"
+	    android:background="@drawable/yellow_button"
+	    android:text="Tambah"
+	    android:textSize="20dp"
+		android:textStyle="bold" />
+
+</RelativeLayout>
